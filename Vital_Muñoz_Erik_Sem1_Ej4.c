@@ -18,7 +18,6 @@ int main()
 	darValor(matriz);
 	verMatriz(matriz);
 	buscaValor(matriz, &x, &y, &numero);
-	//posicion=buscaValor(matriz);
 	Imprime(x, y, numero);
 	
 	return 0;
