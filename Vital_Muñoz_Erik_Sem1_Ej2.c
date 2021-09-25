@@ -5,7 +5,7 @@
 int main()
 {
 	int matriz[N][N];
-	int i, j, juan;
+	int i, j;
 	
 	for(i=0 ; i < N ; i++)
 	{
